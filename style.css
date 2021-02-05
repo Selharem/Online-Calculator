@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+}
+
+.box{
+    margin: auto;
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    background: #ece2e1;
+}
+
+#output{
+    margin-left: 20px;
+    margin-right: auto;
+    width: 450px;
+    height: 100px;
+    background-color: #fcd1d1;
+    font-size: 100px;
+    text-align: right;
+}
+
+.numbers{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    height: 350px;
+    padding: 10px;
+}
+
+table{
+    width: 100px;
+    margin: 0 auto;
+    border-collapse:separate; 
+    border-spacing:5px;
+}
+
+button{
+    height: 60px;
+    width: 110px;
+    font-size: 40px;
+}
+
+#total{
+    height: 260px;
+    background-color: #aee1e1;
+}
+
