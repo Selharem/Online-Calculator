@@ -5,6 +5,7 @@ This is a simple calculator using html, css and javascript
 # Getting Started
 
 Checkout the repository onto your local machine. you don't need to install anything to contribute to this project!
+
 if you want to try the app online : https://codepen.io/50UF14N3/full/QWGydgK
 
 # Happy Coding
