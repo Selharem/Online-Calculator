@@ -1,12 +1,14 @@
 # javascript-calculator
 
-This is a simple calculator using html, css and javascript
+This is a simple web app calculator using vanilla javascript. 
+
+Feel free to contribute to it if you like!
 
 # Getting Started
 
 Checkout the repository onto your local machine. you don't need to install anything to contribute to this project!
 
-if you want to try the app online : https://codepen.io/50UF14N3/full/QWGydgK
+If you want to try the app online : https://codepen.io/50UF14N3/full/QWGydgK
 
 # Happy Coding
 
