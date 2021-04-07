@@ -1,8 +1,6 @@
-# javascript-calculator
+# Javascript-calculator
 
-This is a simple web app calculator using vanilla javascript. 
-
-Feel free to contribute to it if you like!
+This is a simple web app calculator using vanilla javascript. Feel free to contribute to it if you like!
 
 # Getting Started
 
